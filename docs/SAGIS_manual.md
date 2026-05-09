@@ -249,7 +249,7 @@ scientific papers[^1]).
 
 **Figure 1 VBA references**
 
-<img src="./media/image1.png"
+<img src="/media/image1.png"
 style="width:2.64703in;height:2.08089in" />
 
 ## Database updates 
