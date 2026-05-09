@@ -249,7 +249,8 @@ scientific papers[^1]).
 
 **Figure 1 VBA references**
 
-<img src="media/image1.png" style="width:2.64703in;height:2.08089in" />
+<img src="./media/image1.png"
+style="width:2.64703in;height:2.08089in" />
 
 ## Database updates 
 
@@ -333,7 +334,7 @@ users must install within ArcGIS Pro. In advance of installing an
 
 **Figure 3 Add-In Manager**
 
-<img src="media/image2.png" style="width:2.35848in;height:4.098in" />
+<img src="./media/image2.png" style="width:2.35848in;height:4.098in" />
 
 The installation process is straightforward:
 
@@ -351,7 +352,8 @@ toolbar in the ArcGIS Pro project, as shown below ([Figure
 can be used to manipulate the data and modify visualisation of outputs.
 
 <figure>
-<img src="media/image3.png" style="width:5.76806in;height:2.94236in" />
+<img src="./media/image3.png"
+style="width:5.76806in;height:2.94236in" />
 <figcaption><p><span id="_Ref41378849" class="anchor"></span>Figure 4
 SAGIS GIS interface tab</p></figcaption>
 </figure>
@@ -408,12 +410,15 @@ a folder containing a series of xml files as in Figure 7.
 
 **Figure 5 Geoprocessing options form**
 
-<img src="media/image4.png" style="width:5.37178in;height:3.79227in" />
+<img src="./media/image4.png"
+style="width:5.37178in;height:3.79227in" />
 
 <span id="_Ref41377669" class="anchor"></span>**Figure 6 Geoprocessing
 history Figure 7 Geoprocessing log files**
 
-<img src="media/image5.png" style="width:3.15972in;height:1.82153in" /><img src="media/image6.png" style="width:1.88541in;height:4.63478in" />
+<img src="./media/image5.png"
+style="width:3.15972in;height:1.82153in" /><img src="./media/image6.png"
+style="width:1.88541in;height:4.63478in" />
 
 ## Managing SAGIS projects
 
@@ -506,7 +511,8 @@ instance, can be ignored. <span id="_Ref41047346" class="anchor"></span>
 
 **Figure 8 SAGIS Settings Options form**
 
-<img src="media/image7.png" style="width:4.64356in;height:3.35269in" />
+<img src="./media/image7.png"
+style="width:4.64356in;height:3.35269in" />
 
 # Building Regional Databases
 
@@ -531,7 +537,7 @@ Database**; [**Figure 8**](#_Ref41047346)).
 <span id="_Hlk40886272" class="anchor"></span>**Figure 9 Diffuse Sources
 button**
 
-<img src="media/image8.png" style="width:0.41699in;height:0.6298in" />
+<img src="./media/image8.png" style="width:0.41699in;height:0.6298in" />
 
 This processing set up only needs to be repeated if the sector data or
 water body shapes change.
@@ -558,13 +564,14 @@ data from the **LTRac National Database** to populate the **Regional
 Database**.
 
 <figure>
-<img src="media/image8.png" style="width:0.41672in;height:0.62966in" />
+<img src="./media/image8.png"
+style="width:0.41672in;height:0.62966in" />
 <figcaption><p><span id="_Ref41048164" class="anchor"></span>Figure 10
 Lake Sources button</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image8.png" style="width:0.4028in;height:0.62984in" />
+<img src="./media/image8.png" style="width:0.4028in;height:0.62984in" />
 <figcaption><p><span id="_Ref41048193" class="anchor"></span>Figure 11
 TRaC Sources button</p></figcaption>
 </figure>
@@ -629,13 +636,15 @@ settings for the current region.
 
 **Figure 12 SIMCAT menu items**
 
-<img src="media/image9.png" style="width:2.33056in;height:3.74792in" />
+<img src="./media/image9.png"
+style="width:2.33056in;height:3.74792in" />
 
 <span id="_Ref41052990" class="anchor"></span>
 
 **Figure 13 Open and Update Options form**
 
-<img src="media/image10.png" style="width:4.86736in;height:4.24028in" />
+<img src="./media/image10.png"
+style="width:4.86736in;height:4.24028in" />
 
 When the model **Opens and Updates**, it loads data from a series of
 core databases in the **Regional Database** and **Common Database**. The
@@ -701,7 +710,8 @@ which inputs from different sectors are set up for each chemical
 substance. These are implemented when the SIMCAT dat file is created.
 
 <figure>
-<img src="media/image11.png" style="width:5.76806in;height:3.47847in" />
+<img src="./media/image11.png"
+style="width:5.76806in;height:3.47847in" />
 <figcaption><p><span id="_Ref40106459" class="anchor"></span>Figure 14
 Global Control Settings form</p></figcaption>
 </figure>
@@ -832,7 +842,8 @@ on the **General Settings** form) which can then be selected using the
 dropdown box.
 
 <figure>
-<img src="media/image12.png" style="width:5.76806in;height:3.71319in" />
+<img src="./media/image12.png"
+style="width:5.76806in;height:3.71319in" />
 <figcaption><p><span id="_Ref40264641" class="anchor"></span>Figure 15
 General Settings form</p></figcaption>
 </figure>
@@ -1083,7 +1094,8 @@ into the <strong>RiverQualityTargets</strong> table in the
 </table>
 
 <figure>
-<img src="media/image13.png" style="width:5.76806in;height:6.57765in" />
+<img src="./media/image13.png"
+style="width:5.76806in;height:6.57765in" />
 <figcaption><p><span id="_Ref40187454" class="anchor"></span>Figure 16
 Reach Settings form</p></figcaption>
 </figure>
@@ -1124,7 +1136,8 @@ Further explanation of the key inputs is provided below:
   values have been stored, they will no longer be defined as a default.
 
 <figure>
-<img src="media/image14.png" style="width:5.71642in;height:3.63064in" />
+<img src="./media/image14.png"
+style="width:5.71642in;height:3.63064in" />
 <figcaption><p><span id="_Ref40187571" class="anchor"></span>Figure 17
 Reach Settings Monthly Flow Factors form</p></figcaption>
 </figure>
@@ -1164,10 +1177,12 @@ To edit the feature data:
 
 **Figure 18** **Feature Settings form**
 
-<img src="media/image15.png" style="width:5.76806in;height:4.0625in" />
+<img src="./media/image15.png"
+style="width:5.76806in;height:4.0625in" />
 
 <figure>
-<img src="media/image16.png" style="width:5.76806in;height:4.03157in" />
+<img src="./media/image16.png"
+style="width:5.76806in;height:4.03157in" />
 <figcaption><p><span id="_Ref47008074" class="anchor"></span>Figure 19
 Feature Load Settings form</p></figcaption>
 </figure>
@@ -1229,7 +1244,8 @@ Further explanation of the key settings is provided below:
   the location indicates if it should be a lake feature.
 
 <figure>
-<img src="media/image17.png" style="width:2.95833in;height:4.42887in" />
+<img src="./media/image17.png"
+style="width:2.95833in;height:4.42887in" />
 <figcaption><p><span id="_Ref40190515" class="anchor"></span>Figure 20
 Complex Abstraction Settings form</p></figcaption>
 </figure>
@@ -1266,7 +1282,8 @@ Settings** form is provided below:
 <span id="_Ref40190535" class="anchor"></span>**Figure 21** **Monthly
 Settings form**
 
-<img src="media/image18.png" style="width:5.71404in;height:4.38889in" />
+<img src="./media/image18.png"
+style="width:5.71404in;height:4.38889in" />
 
 ## Editing Water Body data
 
@@ -1283,7 +1300,8 @@ To edit the waterbody data:
 <span id="_Ref40190769" class="anchor"></span>Figure 22 Waterbody
 Settings form
 
-<img src="media/image19.png" style="width:5.76623in;height:3.25081in" />
+<img src="./media/image19.png"
+style="width:5.76623in;height:3.25081in" />
 
 Further explanation of the inputs on the **Waterbody Settings** form is
 provided below:
@@ -1450,22 +1468,26 @@ provided below:
 <span id="_Ref40191690" class="anchor"></span>**Figure 23** **Lake
 Settings form**
 
-<img src="media/image20.png" style="width:5.64725in;height:4.31944in" />
+<img src="./media/image20.png"
+style="width:5.64725in;height:4.31944in" />
 
 <span id="_Ref40191731" class="anchor"></span>
 
 **Figure 24** **Monthly Lake Rates form**
 
-<img src="media/image21.png" style="width:5.76806in;height:3.82897in" />
+<img src="./media/image21.png"
+style="width:5.76806in;height:3.82897in" />
 
 <span id="_Ref41566406" class="anchor"></span>**Figure 25** **Lake Rates
 form**
 
-<img src="media/image22.png" style="width:3.25833in;height:3.73611in" /><span id="_Ref40191788"
+<img src="./media/image22.png"
+style="width:3.25833in;height:3.73611in" /><span id="_Ref40191788"
 class="anchor"></span>
 
 <figure>
-<img src="media/image23.png" style="width:3.3508in;height:4.72222in" />
+<img src="./media/image23.png"
+style="width:3.3508in;height:4.72222in" />
 <figcaption><p>Figure 26 Bird Inputs form</p></figcaption>
 </figure>
 
@@ -1483,7 +1505,8 @@ To edit the estuary data:
 <span id="_Ref40192818" class="anchor"></span>Figure 27 Estuary Settings
 form
 
-<img src="media/image24.png" style="width:5.76806in;height:4.03737in" />
+<img src="./media/image24.png"
+style="width:5.76806in;height:4.03737in" />
 
 Further explanation of the key inputs on the **Estuary Settings** form
 is provided below:
@@ -1525,7 +1548,8 @@ described in [Chapter 7](#data-editing) can be used to set up and save
 scenarios are shown below ([Figure 28](#_Ref42598894)).
 
 <figure>
-<img src="media/image25.png" style="width:5.76806in;height:0.60417in" />
+<img src="./media/image25.png"
+style="width:5.76806in;height:0.60417in" />
 <figcaption><p><span id="_Ref42598894" class="anchor"></span>Figure 28
 Setting up and saving scenarios</p></figcaption>
 </figure>
@@ -1626,7 +1650,8 @@ dat file with default settings.</em></td>
 </table>
 
 <figure>
-<img src="media/image26.png" style="width:5.76806in;height:6.3324in" />
+<img src="./media/image26.png"
+style="width:5.76806in;height:6.3324in" />
 <figcaption><p><span id="_Ref40265115" class="anchor"></span>Figure 29
 Create SIMCAT File form</p></figcaption>
 </figure>
@@ -1656,13 +1681,15 @@ the reaches for the sub area. To do this:
 | *11* | *The existing sub-area can be mapped by clicking on the **Map** button. Clicking on the delete button removes the sub-area from the drop-down list.* |
 
 <figure>
-<img src="media/image27.png" style="width:5.75977in;height:3.14851in" />
+<img src="./media/image27.png"
+style="width:5.75977in;height:3.14851in" />
 <figcaption><p><span id="_Ref40265354" class="anchor"></span>Figure 30
 Create Model Area form</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image28.png" style="width:5.75807in;height:1.98611in" />
+<img src="./media/image28.png"
+style="width:5.75807in;height:1.98611in" />
 <figcaption><p><span id="_Ref48570766" class="anchor"></span>Figure 31
 Select Sub Catchment box</p></figcaption>
 </figure>
@@ -1772,7 +1799,8 @@ separately in the SIMCAT manual).
 | *4* | *When SIMCAT runs the black SIMCAT screen appears and the run proceeds feature by feature.* |
 
 <figure>
-<img src="media/image29.png" style="width:5.56347in;height:4.9604in" />
+<img src="./media/image29.png"
+style="width:5.56347in;height:4.9604in" />
 <figcaption><p><span id="_Ref40269573" class="anchor"></span>Figure 32
 Run SIMCAT form</p></figcaption>
 </figure>
@@ -1845,13 +1873,15 @@ Table 1 Scores and the ratio between the simulated and observed means
 and the degree of overlap between the confidence limits
 
 <figure>
-<img src="media/image30.png" style="width:4.18168in;height:8.83582in" />
+<img src="./media/image30.png"
+style="width:4.18168in;height:8.83582in" />
 <figcaption><p><span id="_Ref40350537" class="anchor"></span>Figure 33
 Plot River Outputs form</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image31.png" style="width:5.74568in;height:4.99306in" />
+<img src="./media/image31.png"
+style="width:5.74568in;height:4.99306in" />
 <figcaption><p><span id="_Ref40350744" class="anchor"></span>Figure 34
 Example output generated by Plot Outputs tools</p></figcaption>
 </figure>
@@ -1885,12 +1915,14 @@ To read in the RQP output follow the steps described in the grey box.
 <span id="_Ref40272044" class="anchor"></span>Figure 35 Plot RQP form
 
 <figure>
-<img src="media/image32.png" style="width:3.76595in;height:1.94444in" />
+<img src="./media/image32.png"
+style="width:3.76595in;height:1.94444in" />
 <figcaption><p><span id="_Ref40272219" class="anchor"></span>Figure 36
 Example of RQP output</p></figcaption>
 </figure>
 
-<img src="media/image33.png" style="width:4.98031in;height:4.33071in" />
+<img src="./media/image33.png"
+style="width:4.98031in;height:4.33071in" />
 
 Many other outputs are contained in the mapped RQP layer which can be
 used to create other symbologies using the standard ArcGIS interface.
@@ -1909,10 +1941,12 @@ The source data in the **Land National Database** 1 km grid ([Chapter
 <span id="_Ref40696001" class="anchor"></span>**Figure 37** **National
 loads per sq. km form**
 
-<img src="media/image34.png" style="width:3.41667in;height:2.69929in" />
+<img src="./media/image34.png"
+style="width:3.41667in;height:2.69929in" />
 
 <figure>
-<img src="media/image35.png" style="width:5.71299in;height:5.86806in" />
+<img src="./media/image35.png"
+style="width:5.71299in;height:5.86806in" />
 <figcaption><p><span id="_Ref40696167" class="anchor"></span>Figure 38
 Example output generated by Plot Outputs tools</p></figcaption>
 </figure>
@@ -1962,13 +1996,15 @@ displayed.</em></td>
 </table>
 
 <figure>
-<img src="media/image36.png" style="width:3.02778in;height:3.04775in" />
+<img src="./media/image36.png"
+style="width:3.02778in;height:3.04775in" />
 <figcaption><p><span id="_Ref47012822" class="anchor"></span>Figure 39
 Regional loads per Waterbody form</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image37.png" style="width:5.26627in;height:4.46528in" />
+<img src="./media/image37.png"
+style="width:5.26627in;height:4.46528in" />
 <figcaption><p><span id="_Ref40698336" class="anchor"></span>Figure 40
 Example waterbody export load plot</p></figcaption>
 </figure>
@@ -2009,7 +2045,7 @@ Output Tables** button. Three sets of output tables are created in the
 
 **Figure 41** **Create Output Tables form**
 
-<img src="media/image38.png" style="width:3.375in;height:4.36039in" />
+<img src="./media/image38.png" style="width:3.375in;height:4.36039in" />
 
 ### Sector pie charts
 
@@ -2077,10 +2113,12 @@ described below:
 <span id="_Ref40698516" class="anchor"></span>**Figure 42** **Plot
 Sector Charts form**
 
-<img src="media/image39.png" style="width:4.85575in;height:5.06493in" />
+<img src="./media/image39.png"
+style="width:4.85575in;height:5.06493in" />
 
 <figure>
-<img src="media/image40.png" style="width:5.71272in;height:5.09028in" />
+<img src="./media/image40.png"
+style="width:5.71272in;height:5.09028in" />
 <figcaption><p><span id="_Ref44402900" class="anchor"></span>Figure 43
 Example of source apportionment pie chart plot</p></figcaption>
 </figure>
@@ -2112,12 +2150,14 @@ create upstream contribution charts:
 Contribution form for Sector Charts**
 
 <figure>
-<img src="media/image41.png" style="width:5.76806in;height:2.52162in" />
+<img src="./media/image41.png"
+style="width:5.76806in;height:2.52162in" />
 <figcaption><p><span id="_Ref40952113" class="anchor"></span>Figure 45
 Upstream Contribution form for Point Source Charts</p></figcaption>
 </figure>
 
-<img src="media/image42.png" style="width:5.76806in;height:2.1025in" />
+<img src="./media/image42.png"
+style="width:5.76806in;height:2.1025in" />
 
 If point contributions are selected, bars will appear on the map showing
 the relative contribution of upstream point sources. If diffuse
@@ -2174,7 +2214,8 @@ Statistic</strong> box.</em></th>
 </table>
 
 <figure>
-<img src="media/image43.png" style="width:4.08333in;height:4.48611in" />
+<img src="./media/image43.png"
+style="width:4.08333in;height:4.48611in" />
 <figcaption><p><span id="_Ref40698694" class="anchor"></span>Figure 46
 Map Output form</p></figcaption>
 </figure>
@@ -2229,7 +2270,8 @@ Further information on the mapping options is shown below:
 An example mapped output is shown in [Figure 47](#_Ref41394533).
 
 <figure>
-<img src="media/image44.png" style="width:5.6445in;height:4.40972in" />
+<img src="./media/image44.png"
+style="width:5.6445in;height:4.40972in" />
 <figcaption><p><span id="_Ref41394533" class="anchor"></span>Figure 47
 Example mapped output plot (% Contribution (Conc))</p></figcaption>
 </figure>
@@ -2280,26 +2322,30 @@ below (and are also detailed in the Excel spreadsheet):
 
 **Figure 48 Plot River Chainage Graphs form**
 
-<img src="media/image45.png" style="width:6.08333in;height:4.57685in" />
+<img src="./media/image45.png"
+style="width:6.08333in;height:4.57685in" />
 
 <span id="_Ref41395065" class="anchor"></span>**Figure 49** **Chainage
 plots via Excel**
 
-<img src="media/image46.png" style="width:6.07886in;height:2.70912in" />
+<img src="./media/image46.png"
+style="width:6.07886in;height:2.70912in" />
 
 <span id="_Ref42597726" class="anchor"></span>
 
 **Figure 50 Example Simulated and Observed Concentration chainage
 plots**
 
-<img src="media/image47.png" style="width:5.73218in;height:3.86337in" />
+<img src="./media/image47.png"
+style="width:5.73218in;height:3.86337in" />
 
 <span id="_Ref42597754" class="anchor"></span>
 
 **Figure 51 Example Sector Chainage and Probability of Compliance
 plots**
 
-<img src="media/image48.png" style="width:5.76806in;height:3.85385in" />
+<img src="./media/image48.png"
+style="width:5.76806in;height:3.85385in" />
 
 # Calibration Adjustments and Calibration Tables
 
@@ -2353,7 +2399,8 @@ the **Create SIMCAT File** form:
 <span id="_Ref40704995" class="anchor"></span>**Figure 52 Create SIMCAT
 File form**
 
-<img src="media/image49.png" style="width:4.79851in;height:5.73267in" />
+<img src="./media/image49.png"
+style="width:4.79851in;height:5.73267in" />
 
 ## Import Calibration Data
 
@@ -2371,7 +2418,8 @@ adjustments.
 <span id="_Ref45116665" class="anchor"></span>Figure 53 Import
 Calibration Data
 
-<img src="media/image50.png" style="width:2.69506in;height:2.12952in" />
+<img src="./media/image50.png"
+style="width:2.69506in;height:2.12952in" />
 
 # 
 
@@ -2423,7 +2471,7 @@ and run using the **Create SIMCAT File** form as shown below ([Figure
 section (within red box) must be ticked.
 
 <figure>
-<img src="media/image51.png" style="width:5.695in;height:3.31586in" />
+<img src="./media/image51.png" style="width:5.695in;height:3.31586in" />
 <figcaption><p><span id="_Ref40705632" class="anchor"></span>Figure 54
 Create SIMCAT File form set up to create the inputs for
 Lakes</p></figcaption>
@@ -2459,12 +2507,14 @@ To run the SAGIS lake model:
 <span id="_Ref40706815" class="anchor"></span>
 
 <figure>
-<img src="media/image52.png" style="width:2.90099in;height:2.63617in" />
+<img src="./media/image52.png"
+style="width:2.90099in;height:2.63617in" />
 <figcaption><p>Figure 55 Run SIMCAT form (for Lakes)</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image53.png" style="width:4.35237in;height:3.42574in" />
+<img src="./media/image53.png"
+style="width:4.35237in;height:3.42574in" />
 <figcaption><p>Figure 56 Lake Model form</p></figcaption>
 </figure>
 
@@ -2529,15 +2579,18 @@ To create the lake plot outputs:
 
 **Figure 57 Plot Lake Outputs form**
 
-<img src="media/image54.png" style="width:2.48611in;height:1.75694in" />
+<img src="./media/image54.png"
+style="width:2.48611in;height:1.75694in" />
 
 <span id="_Ref40800272" class="anchor"></span>**Figure 58 Lake outputs
 plotting pop-up**
 
-<img src="media/image55.png" style="width:5.76806in;height:3.06969in" />
+<img src="./media/image55.png"
+style="width:5.76806in;height:3.06969in" />
 
 <figure>
-<img src="media/image56.png" style="width:5.76806in;height:3.01652in" />
+<img src="./media/image56.png"
+style="width:5.76806in;height:3.01652in" />
 <figcaption><p><span id="_Ref40800282" class="anchor"></span>Figure 59
 Trophic Summary</p></figcaption>
 </figure>
@@ -2553,18 +2606,20 @@ The trophic status analysis is based on using SAGIS to estimate:
 This information is then used to calculate a predicted in-lake total P
 concentration using OECD lake classification equations.
 
-![](media/image57.wmf)
+![](./media/image57.wmf)
 
 For lakes with a mean depth of \>= 3 m, (a, b) = (1.55, 0.82). For
 shallow lakes with a mean depth \< 3 m, (a, b) = (1.02, 0.88).
 Similarly, Chlorophyll-a and Nitrate are calculated using further OECD
 equations.
 
-<img src="media/image58.png" style="width:2.03472in;height:0.55625in" />
+<img src="./media/image58.png"
+style="width:2.03472in;height:0.55625in" />
 
 Where a = 0.38 and b = 0.86
 
-<img src="media/image59.png" style="width:1.99097in;height:0.63472in" />
+<img src="./media/image59.png"
+style="width:1.99097in;height:0.63472in" />
 
 Where JN = Nitrogen Load, a = 5.34 and b = 0.78
 
@@ -2646,12 +2701,14 @@ related to lakes is provided below:
 <span id="_Ref40710076" class="anchor"></span>**Figure 60** **Plot
 Sector Charts form**
 
-<img src="media/image60.png" style="width:4.01389in;height:6.0875in" />
+<img src="./media/image60.png"
+style="width:4.01389in;height:6.0875in" />
 
 An example map is shown in [Figure 61](#_Ref40710758).
 
 <figure>
-<img src="media/image61.png" style="width:5.57898in;height:6.37708in" />
+<img src="./media/image61.png"
+style="width:5.57898in;height:6.37708in" />
 <figcaption><p><span id="_Ref40710758" class="anchor"></span>Figure 61
 Example lake sector pie charts</p></figcaption>
 </figure>
@@ -2733,7 +2790,8 @@ model by modifying the selection within the spreadsheet (in the
 </table>
 
 <figure>
-<img src="media/image62.png" style="width:3.31304in;height:1.97292in" />
+<img src="./media/image62.png"
+style="width:3.31304in;height:1.97292in" />
 <figcaption><p><span id="_Ref40803303" class="anchor"></span>Figure 62
 Plot Lake Graphs form</p></figcaption>
 </figure>
@@ -2742,7 +2800,8 @@ Plot Lake Graphs form</p></figcaption>
 
 **Figure 63 Lake plots via Excel**
 
-<img src="media/image63.png" style="width:5.76806in;height:3.03947in" />
+<img src="./media/image63.png"
+style="width:5.76806in;height:3.03947in" />
 
 Further information on the information shown on the lake charts is
 provided below:
@@ -2762,13 +2821,15 @@ provided below:
   from the sediment input (only Detailed mode).
 
 <figure>
-<img src="media/image64.png" style="width:5.71211in;height:2.55906in" />
+<img src="./media/image64.png"
+style="width:5.71211in;height:2.55906in" />
 <figcaption><p><span id="_Ref40803336" class="anchor"></span>Figure 64
 Example Lake Chemical Concentration chart</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image65.png" style="width:5.65625in;height:2.68681in" />
+<img src="./media/image65.png"
+style="width:5.65625in;height:2.68681in" />
 <figcaption><p><span id="_Ref42591355" class="anchor"></span>Figure 65
 Example Lake Source Apportionment chart</p></figcaption>
 </figure>
@@ -2777,15 +2838,18 @@ Example Lake Source Apportionment chart</p></figcaption>
 Volume chart**
 
 <figure>
-<img src="media/image66.png" style="width:5.51181in;height:2.55906in" />
+<img src="./media/image66.png"
+style="width:5.51181in;height:2.55906in" />
 <figcaption><p><span id="_Ref42591369" class="anchor"></span>Figure 67
 Example Lake Flow chart</p></figcaption>
 </figure>
 
-<img src="media/image67.png" style="width:5.51181in;height:2.55906in" />
+<img src="./media/image67.png"
+style="width:5.51181in;height:2.55906in" />
 
 <figure>
-<img src="media/image68.png" style="width:5.51181in;height:2.55906in" />
+<img src="./media/image68.png"
+style="width:5.51181in;height:2.55906in" />
 <figcaption><p><span id="_Ref42591396" class="anchor"></span>Figure 68
 Example Lake Yearly Chemical Concentration chart</p></figcaption>
 </figure>
@@ -2794,15 +2858,18 @@ Example Lake Yearly Chemical Concentration chart</p></figcaption>
 Sediment Concentration chart**
 
 <figure>
-<img src="media/image69.png" style="width:5.51181in;height:2.55906in" />
+<img src="./media/image69.png"
+style="width:5.51181in;height:2.55906in" />
 <figcaption><p><span id="_Ref42591408" class="anchor"></span>Figure 70
 Example Lake Sediment Flux chart</p></figcaption>
 </figure>
 
-<img src="media/image70.png" style="width:5.51181in;height:2.55906in" />
+<img src="./media/image70.png"
+style="width:5.51181in;height:2.55906in" />
 
 <figure>
-<img src="media/image71.png" style="width:5.51181in;height:2.55906in" />
+<img src="./media/image71.png"
+style="width:5.51181in;height:2.55906in" />
 <figcaption><p><span id="_Ref42591414" class="anchor"></span>Figure 71
 Example Lake Yearly Flow chart</p></figcaption>
 </figure>
@@ -2834,7 +2901,8 @@ shown on the chart by selecting **Yes** from the drop-down for the
 **Show Lake Data** option ([Figure 72](#_Ref45712866)).
 
 <figure>
-<img src="media/image72.png" style="width:5.76806in;height:2.38029in" />
+<img src="./media/image72.png"
+style="width:5.76806in;height:2.38029in" />
 <figcaption><p><span id="_Ref45712866" class="anchor"></span>Figure 72
 Show Lake Data on chainage plot</p></figcaption>
 </figure>
@@ -2849,7 +2917,8 @@ form as shown below ([Figure 73](#_Ref40866352)). The **Coastal Inputs**
 and **Estuary Inputs** tick boxes (within red box) must be ticked.
 
 <figure>
-<img src="media/image51.png" style="width:5.71538in;height:3.31597in" />
+<img src="./media/image51.png"
+style="width:5.71538in;height:3.31597in" />
 <figcaption><p><span id="_Ref40866352" class="anchor"></span>Figure 73
 Create SIMCAT File form set up to create the inputs for Estuary and
 Coastal Waters</p></figcaption>
@@ -2870,7 +2939,8 @@ To create the estuary and coastal waters input tables:
 | *2* | *Tick **Process Lakes, Estuaries and Coastal Outputs** then click on **Run.*** |
 
 <figure>
-<img src="media/image73.png" style="width:4.34864in;height:3.93524in" />
+<img src="./media/image73.png"
+style="width:4.34864in;height:3.93524in" />
 <figcaption><p><span id="_Ref40711669" class="anchor"></span>Figure 74
 Run SIMCAT form</p></figcaption>
 </figure>
@@ -2954,7 +3024,8 @@ related to estuaries and coastal waters is provided below:
   dilution by seawater or total suspended solids concentration.
 
 <figure>
-<img src="media/image74.png" style="width:3.33467in;height:5.03731in" />
+<img src="./media/image74.png"
+style="width:3.33467in;height:5.03731in" />
 <figcaption><p><span id="_Ref40712903" class="anchor"></span>Figure 75
 Plot Sector Charts form (Estuaries)</p></figcaption>
 </figure>
@@ -2964,7 +3035,8 @@ An example map is shown in [Figure 76](#_Ref40713012).
 <span id="_Ref40713012" class="anchor"></span>**Figure 76** **Example
 estuaries sector pie charts**
 
-<img src="media/image75.png" style="width:5.62332in;height:4.66521in" />
+<img src="./media/image75.png"
+style="width:5.62332in;height:4.66521in" />
 
 ## Estuary Plots (Excel)
 
@@ -3032,13 +3104,15 @@ same model by modifying the selection within the spreadsheet
 </table>
 
 <figure>
-<img src="media/image76.png" style="width:4.66389in;height:2.79097in" />
+<img src="./media/image76.png"
+style="width:4.66389in;height:2.79097in" />
 <figcaption><p><span id="_Ref42588043" class="anchor"></span>Figure 77
 Plot Estuary Graphs form</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image77.png" style="width:5.76806in;height:2.25505in" />
+<img src="./media/image77.png"
+style="width:5.76806in;height:2.25505in" />
 <figcaption><p><span id="_Ref42588063" class="anchor"></span>Figure 78
 Estuary plots via Excel</p></figcaption>
 </figure>
@@ -3056,7 +3130,8 @@ compare:
 - **Estuary –** The observed TSS concentration.
 
 <figure>
-<img src="media/image78.png" style="width:5.76806in;height:2.71014in" />
+<img src="./media/image78.png"
+style="width:5.76806in;height:2.71014in" />
 <figcaption><p><span id="_Ref42588106" class="anchor"></span>Figure 79
 Example Total Suspended Solids plot</p></figcaption>
 </figure>
@@ -3079,7 +3154,8 @@ seawater to estuary concentrations compared to observed concentrations
 and those based on sediment concentrations.
 
 <figure>
-<img src="media/image79.png" style="width:5.76806in;height:3.2058in" />
+<img src="./media/image79.png"
+style="width:5.76806in;height:3.2058in" />
 <figcaption><p><span id="_Ref42588115" class="anchor"></span>Figure 80
 Example Chemical concentration plot</p></figcaption>
 </figure>
@@ -3237,7 +3313,8 @@ To run the bio availability analysis tool:
 
 **Figure 81 MPER Analysis form**
 
-<img src="media/image80.png" style="width:5.76806in;height:2.69583in" />
+<img src="./media/image80.png"
+style="width:5.76806in;height:2.69583in" />
 
 Further information on the settings on the **MPER** form is provided
 below:
@@ -3326,7 +3403,7 @@ below:
 - **Ca pH Corrlation –** correlation between calcium and pH.
 
 <figure>
-<img src="media/image81.jpeg"
+<img src="./media/image81.jpeg"
 style="width:4.61733in;height:3.55556in" />
 <figcaption><p><span id="_Ref48578519" class="anchor"></span>Figure 82
 Example mapped output from MPER (coloured squares show ratio of
@@ -3345,14 +3422,15 @@ Additional model build tools are available on the ribbon in the
 **Editing Tools** command set ([Figure 83](#_Ref40863191)).
 
 <figure>
-<img src="media/image82.png" style="width:5.76806in;height:0.79514in" />
+<img src="./media/image82.png"
+style="width:5.76806in;height:0.79514in" />
 <figcaption><p><span id="_Ref40863191" class="anchor"></span>Figure 83
 GIS processing tools</p></figcaption>
 </figure>
 
 ## New Reach 
 
-<img src="media/image82.png" style="width:0.8in;height:0.23478in" />
+<img src="./media/image82.png" style="width:0.8in;height:0.23478in" />
 
 This tool is used to add a new reach to the **SimReaches** river
 polyline. To add a new reach:
@@ -3367,7 +3445,8 @@ polyline. To add a new reach:
 
 ## Split Reach
 
-<img src="media/image82.png" style="width:0.81005in;height:0.18831in" />
+<img src="./media/image82.png"
+style="width:0.81005in;height:0.18831in" />
 
 This tool is used to split an existing reach to the **SimReaches** river
 polyline. To split the reach:
@@ -3382,7 +3461,8 @@ polyline. To split the reach:
 
 ## New Feature
 
-<img src="media/image82.png" style="width:0.81097in;height:0.20779in" />
+<img src="./media/image82.png"
+style="width:0.81097in;height:0.20779in" />
 
 | ***45*** | ***Add New Feature*** |
 |----|----|
@@ -3392,14 +3472,16 @@ polyline. To split the reach:
 | *4* | *The new feature is created with the location, GISCode, waterbody reference and reach location. Further information needs to be added such as the feature name and water quality code reference.* |
 
 <figure>
-<img src="media/image83.png" style="width:2.76875in;height:1.45556in" />
+<img src="./media/image83.png"
+style="width:2.76875in;height:1.45556in" />
 <figcaption><p><span id="_Ref41575712" class="anchor"></span>Figure 84
 Create Point Feature form</p></figcaption>
 </figure>
 
 ## Convert SAGIS Load
 
-<img src="media/image82.png" style="width:1.13523in;height:0.26623in" />
+<img src="./media/image82.png"
+style="width:1.13523in;height:0.26623in" />
 
 To convert SAGISPointFeature_LOAD features to a SimFeature:
 
@@ -3412,7 +3494,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Delete Feature
 
-<img src="media/image82.png" style="width:0.85921in;height:0.18799in" />
+<img src="./media/image82.png"
+style="width:0.85921in;height:0.18799in" />
 
 | ***47*** | ***Delete Feature*** |
 |----|----|
@@ -3422,7 +3505,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Reverse Reach Direction
 
-<img src="media/image82.png" style="width:1.29506in;height:0.20715in" />
+<img src="./media/image82.png"
+style="width:1.29506in;height:0.20715in" />
 
 | ***48*** | ***Reverse Reach Direction*** |
 |----|----|
@@ -3432,7 +3516,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Allocate Feature to Waterbody
 
-<img src="media/image82.png" style="width:1.60892in;height:0.25325in" />
+<img src="./media/image82.png"
+style="width:1.60892in;height:0.25325in" />
 
 | ***49*** | ***Allocate Feature to Waterbody*** |
 |----|----|
@@ -3440,7 +3525,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Headwater Area
 
-<img src="media/image82.png" style="width:0.98091in;height:0.22063in" />
+<img src="./media/image82.png"
+style="width:0.98091in;height:0.22063in" />
 
 | ***50*** | ***Calculate Headwater Area*** |
 |----|----|
@@ -3448,7 +3534,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Allocate WB Reference 
 
-<img src="media/image82.png" style="width:1.27676in;height:0.18746in" />
+<img src="./media/image82.png"
+style="width:1.27676in;height:0.18746in" />
 
 | ***51*** | ***Allocate Waterbody Reference*** ***to Rivers*** |
 |----|----|
@@ -3456,7 +3543,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Split Waterbody
 
-<img src="media/image82.png" style="width:0.94705in;height:0.24026in" />
+<img src="./media/image82.png"
+style="width:0.94705in;height:0.24026in" />
 
 | ***52*** | ***Split Waterbody*** |
 |----|----|
@@ -3469,7 +3557,8 @@ To convert SAGISPointFeature_LOAD features to a SimFeature:
 
 ## Make Transparent
 
-<img src="media/image82.png" style="width:1.03677in;height:0.20745in" />
+<img src="./media/image82.png"
+style="width:1.03677in;height:0.20745in" />
 
 This icon is used to make the feature layers transparent to make the
 output symbology clearer on the map:
@@ -3481,7 +3570,8 @@ output symbology clearer on the map:
 
 ## Repair
 
-<img src="media/image82.png" style="width:0.51794in;height:0.19444in" />
+<img src="./media/image82.png"
+style="width:0.51794in;height:0.19444in" />
 
 This tool repairs corrupted GIS layers:
 
@@ -3491,7 +3581,8 @@ This tool repairs corrupted GIS layers:
 
 ## Mark Waterbodies
 
-<img src="media/image82.png" style="width:1.10417in;height:0.24675in" />
+<img src="./media/image82.png"
+style="width:1.10417in;height:0.24675in" />
 
 | ***55*** | ***Mark Waterbodies***                                |
 |----------|-------------------------------------------------------|
@@ -3500,7 +3591,8 @@ This tool repairs corrupted GIS layers:
 
 ## Clear Waterbodies
 
-<img src="media/image82.png" style="width:1.0923in;height:0.22078in" />
+<img src="./media/image82.png"
+style="width:1.0923in;height:0.22078in" />
 
 | ***56*** | ***Clear Waterbodies***                                 |
 |----------|---------------------------------------------------------|
@@ -3509,7 +3601,8 @@ This tool repairs corrupted GIS layers:
 
 ## Migrate Databases
 
-<img src="media/image82.png" style="width:1.09066in;height:0.23377in" />
+<img src="./media/image82.png"
+style="width:1.09066in;height:0.23377in" />
 
 This tool is used in the process for converting pre-existing Access
 databases (used in the ArcMap version of SAGIS) into file geodatabase
@@ -5226,7 +5319,8 @@ the in-built conversion toolbox in ArcMap 10.2 ([Figure
 this process using ArcMap to avoid data management conflicts**.
 
 <figure>
-<img src="media/image84.png" style="width:2.60417in;height:3.65764in" />
+<img src="./media/image84.png"
+style="width:2.60417in;height:3.65764in" />
 <figcaption><p><span id="_Ref45203842" class="anchor"></span>Figure 85
 ArcMap 10.2 tools to convert filetypes across databases</p></figcaption>
 </figure>
@@ -5249,7 +5343,8 @@ The database conversion process entails several steps, namely:
   optionally, an ‘Outputs’ database where model outputs can be stored.
 
 <figure>
-<img src="media/image85.png" style="width:2.83333in;height:3.93327in" />
+<img src="./media/image85.png"
+style="width:2.83333in;height:3.93327in" />
 <figcaption><p><span id="_Ref45203936" class="anchor"></span>Figure 86
 ArcMap 10.2 catalog tools to create the new file
 geodatabase</p></figcaption>
@@ -5299,13 +5394,15 @@ geodatabase</p></figcaption>
     prompted upon selecting ‘Run’.
 
 <figure>
-<img src="media/image86.png" style="width:5.76806in;height:3.09097in" />
+<img src="./media/image86.png"
+style="width:5.76806in;height:3.09097in" />
 <figcaption><p><span id="_Ref45203970" class="anchor"></span>Figure 87
 The ‘Migrate Databases’ tool located in ‘Editing Tools’</p></figcaption>
 </figure>
 
 <figure>
-<img src="media/image87.png" style="width:5.76806in;height:3.10556in" />
+<img src="./media/image87.png"
+style="width:5.76806in;height:3.10556in" />
 <figcaption><p><span id="_Ref45203994" class="anchor"></span>Figure 88
 Navigate to the relevant regional model file geodatabase and select
 ‘Run’</p></figcaption>
